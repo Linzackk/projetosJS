@@ -104,7 +104,15 @@ function transferir(idOrigem, idDestino, valor) {
 }
 
 function extrato(id) {
-
+    let posicaoConta = idExistente(id)
+    if (posicaoConta === -1) {
+        return
+    }
+    let cliente = banco["clientes"][posicaoConta]
+    for (let i in cliente) {
+        console.log(`${i}: ${cliente[i]}`)
+    }
+    console.log()
 }
 
 function listarContas() {
@@ -122,13 +130,13 @@ criarCliente("Junior")
 listarContas()
 
 depositar(0, 500)
-listarContas()
 
 sacar(0, 1000)
-listarContas()
 
 depositar(7, 10)
-listarContas()
 
 transferir(0, 3, 250)
-listarContas()
+
+extrato(0)
+extrato(3)
+extrato(1)
