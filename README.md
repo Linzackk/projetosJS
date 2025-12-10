@@ -14,14 +14,22 @@ A execução foi feita utilizando **Node.js** para saída em terminal.
 
 ### Cadastro de Usuários
 
-Nesse projeto, foi criado um sistema de cadastro para usuários utilizando **nome, email e senha**.
+O sistema de cadastro cria usuários usando informações base como **nome, email e senha** gerando automaticamente IDs diferentes para cada usuário.
 
-Possui validação de entrada de dados,manipulação de arrays uso de funções e testes unitários.
+O um array é utilizado para simulação de um "banco de dados" para salvar e deletar informações
+
+Nesse projeto foram utilizadas técnicas de manipulação de arrays, validação de dados e o uso de funções seguindo princípios de orientação a objetos.
 
 ___
 
-# TESTE
+### Sistema Bancário
 
----
+O sistema bancário possibilita a criação de clientes com IDs únicos.
 
-# TESTE 2
+Os clientes são salvos em um objeto que contem um array para simulação do banco de dados.
+
+Nesse projeto foram utilizadas técnicas de manipulação de arrays, objetos, validação e atualização de dados a partir de funções seguindo princípios de orientação a objetos.
+
+___
+
+###
