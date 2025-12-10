@@ -2,5 +2,5 @@
 
 ## Testes 
 
-Os testes realizados em cada um dos projetos está presente no arquivo para visualização no log.
+Os testes realizados em cada um dos projetos está presente no arquivo para visualização no log. <br>
 A execução foi feita utilizando node para saída em terminal.
