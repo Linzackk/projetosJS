@@ -8,9 +8,9 @@ Os testes realizados em cada um dos projetos está presente no arquivo para visu
 
 A execução foi feita utilizando **Node.js** para saída em terminal.
 
----
-
 ## Projetos
+
+---
 
 ### Cadastro de Usuários
 
