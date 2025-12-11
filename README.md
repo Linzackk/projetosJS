@@ -1,6 +1,8 @@
 # Projetos de Estudo em JavaScript
 
-___
+
+
+
 
 ## Testes
 
@@ -10,7 +12,9 @@ A execução foi feita utilizando **Node.js** para saída em terminal.
 
 ## Projetos
 
-___
+
+
+
 
 ### Cadastro de Usuários
 
