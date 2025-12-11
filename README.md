@@ -24,7 +24,7 @@ ___
 
 ### Sistema Bancário
 
-O sistema bancário possibilita a criação de clientes com IDs únicos.
+O sistema bancário possibilita a criação de clientes com **IDs únicos**.
 
 Os clientes são salvos em um objeto que contem um array para simulação do banco de dados.
 
@@ -32,4 +32,14 @@ Nesse projeto foram utilizadas técnicas de manipulação de arrays, objetos, va
 
 ___
 
-###
+### Validador de Texto
+
+O validador de texto análisa um texto inserido e retorna: **Total de Caracteres** (excluindo espaços), **Quantidade de Palavras**, **Quantidade de Frases**, **Palavra mais longa**, **Frequência de Palavras**
+
+O texto é analisado por diversas funções separadas que são reúnidas em uma função prinicpal chamada analisarTexto que retorna um objeto com todas as informações citadas.
+
+Ele permite realizar validações futuras como email, telefone, cpf a partir das informações retornadas.
+
+Foram utilizadas principalmente manipulação de Strings, loops e funções seguindo os princípios da orientação a objeto.
+
+___
