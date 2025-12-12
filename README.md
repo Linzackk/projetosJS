@@ -52,6 +52,16 @@ Os conhecimentos necessários para criação envolvem o uso de arrays, funções
 
 ___
 
+### Estatísticas Númericas
+
+Projeto que analisa um array de numeros para análise posterior.
+
+A Função analisarNumeros retorna um objeto com informações: **Maior Número**, **Menor**, **Número**, **Média**, **Soma**, **Array Ordenado** , **Números Acima da Média**.
+
+Foram utilizados conhecimentos de Algoritmos e Estruturas de dados para os cálculos e as funções de ordenação.
+
+A função principal usa o algoritmo de bubble sort porém o algoritmo de selection sort está presente.
+
 ## Testes
 
 Todos os projetos foram testados durante o processo e unitariamente.
