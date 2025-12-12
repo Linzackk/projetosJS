@@ -62,6 +62,8 @@ Foram utilizados conhecimentos de Algoritmos e Estruturas de dados para os cálc
 
 A função principal usa o algoritmo de bubble sort porém o algoritmo de selection sort está presente.
 
+___
+
 ## Testes
 
 Todos os projetos foram testados durante o processo e unitariamente.
