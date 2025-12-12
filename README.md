@@ -1,14 +1,8 @@
 # Projetos de Estudo em JavaScript
 
+## Sobre
 
-
-
-
-## Testes
-
-Os testes realizados em cada um dos projetos está presente no arquivo para visualização no log.
-
-A execução foi feita utilizando **Node.js** para saída em terminal.
+Esse repositório tem o objetivo de armazenar projetos feitos utilizando JavaScript com o objetivo de aprofundar os conhecimentos básicos de lógica de programação e sintaxe da linguagem.
 
 ## Projetos
 
@@ -47,3 +41,21 @@ Ele permite realizar validações futuras como email, telefone, cpf a partir das
 Foram utilizadas principalmente manipulação de Strings, loops e funções seguindo os princípios da orientação a objeto.
 
 ___
+
+### Loja Digital
+
+Esse projeto simula o uso de uma loja digital possibilitando o usuário adicionar e remover itens do carrinho, adicionar produtos ao estoque e finalizar compras.
+
+As funções utilizadas possuem validação dos dados evitando compras além do permitidas pelo estoque e existência do Id do Produto na loja.
+
+Os conhecimentos necessários para criação envolvem o uso de arrays, funções, importação de arquivos .js e cálculos matemáticos.
+
+___
+
+## Testes
+
+Todos os projetos foram testados durante o processo e unitariamente.
+
+Os testes realizados em cada um dos projetos está presente no arquivo para visualização no log.
+
+A execução foi feita utilizando **Node.js** para saída em terminal.
